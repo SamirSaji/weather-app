@@ -1,6 +1,7 @@
 const request = require("request");
 
-const place = document.getElementById("location").value;
+// const place = document.getElementById("location").value;
+const place = 'namakkal'
 
 
 
